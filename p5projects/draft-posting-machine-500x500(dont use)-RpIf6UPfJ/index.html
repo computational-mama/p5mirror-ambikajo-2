@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@100;0,300;1,700&display=swap" rel="stylesheet">
+    <meta charset="utf-8" />
+
+  </head>
+  <body id ="capture">
+    <script src="sketch.js"></script>
+    <script src="screenCap.js"></script>
+    <div class="addContent">  
+      <p>Add the text first and then upload the image</p>
+      <textarea placeholder="type here" id="textarea"></textarea>
+      <button id="submit">Submit</button>
+      <button id="saveImg" onclick="takeScreenshot()">Save image</button>
+<!--       <button id="downld" onclick="downld()">download</button> -->
+    </div>
+    <div id="contentpost">
+      <p id="logo">dra.ft</p>
+    </div>
+    
+  </body>
+</html>

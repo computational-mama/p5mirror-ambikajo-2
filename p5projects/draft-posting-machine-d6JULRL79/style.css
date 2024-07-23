@@ -1,0 +1,43 @@
+html, body {
+  margin: 0;
+  padding: 5px;
+  font-family: 'IBM Plex Mono', monospace;
+  
+}
+
+#contentpost{
+  padding:50px;
+  padding-left:150px;
+  width:1080px;
+  height:1080px;
+/*   border-style: solid;
+  border-color: #eeeeee; */
+  border-top: 0.5px solid #eeeeee;
+  border-left: 0.5px solid #eeeeee;
+  border-right: 0.5px solid #eeeeee;
+  border-bottom: 0.5px solid #eeeeee;
+}
+canvas {
+  display: block;
+}
+
+#logo{
+  font-weight:700;
+  color:#00e;
+  font-style: italic;
+  font-size: 80px;
+  
+}
+
+.content{
+  font-weight:300;
+  font-size: 55px;;
+  position: inherit;
+  top: 15px;
+/*   left: 40px; */
+/*   width:400px; */
+}
+
+#addContent{
+ padding-bottom:15px;
+}

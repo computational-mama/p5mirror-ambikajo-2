@@ -1,0 +1,289 @@
+Observed,Action,Observer,Category
+Ai,Arms on leg,Agat,arm
+Ai,Big movements with arms,Ainhoa,arm
+TO,left arm touch right elbow,Ainhoa,arm
+TO,left arm touch right elbow again,Ainhoa,arm
+V,left elbow on knee,venuri,arm
+V,two elbows on thighs,venuri,arm
+TO,open right arm left hand on right elbow,Venuri,arm
+AG,Body looking to interlocutor,Ainhoa,body full
+AG,shift weight,asa,body full
+AG,laugh back twist body,asa,body full
+Asa,rotate ,Asa,body full
+TO,twitch,asa,body full
+Ai,still,Venuri,body full
+Asa,Body turning away,,body full
+AG,shifting bum on seat,Venuri,body lower
+Asa,shifting seat,venuri,body lower
+TO,Bending forward,Agat,body upper
+V,torso relaxed / slouch,asa,body upper
+V,laugh leans back,asa,body upper
+Ai,breath in out,asa,body upper
+TO,lean forward,T-O,body upper
+AG,upper body still,Venuri,body upper
+Asa,upper body leaning back (diagonal) ,venuri,body upper
+Asa,relaxed upper body,venuri,body upper
+V,upper body moves left to right,venuri,body upper
+V,lean forward,venuri,body upper
+Ai,left shoulder up,venuri,body upper
+Ai,lean forward right elbow on knee,venuri,body upper
+Ai,lift upper body up,Venuri,body upper
+TO,hunch,Venuri,body upper
+Asa,Looks down,Agat,face
+Asa,Blinking eyes,Agat,face
+Asa,Look to camera,Agat,face
+TO,Looking away from camera,Agat,face
+Asa,Laughing and then body looking to Agat,Ainhoa,face
+V,Smile,Ainhoa,face
+Asa,left shoulder laugh,Asa,face
+V,"eyes right, blink",asa,face
+V,chew lips,asa,face
+Ai,open mouth,asa,face
+Ai,laugh look down right,asa,face
+TO,look up and left,asa,face
+TO,nodding smilling,asa,face
+TO,smile,T-O,face
+V,frown,venuri,face
+Ai,small smile,Venuri,face
+TO,smile,Venuri,face
+TO,look left,Venuri,face
+TO,Toe twitch,Agat,feet
+AG,feet hiden in the chair,Ainhoa,feet
+TO,Feets crossed,Ainhoa,feet
+AG,feed under stack,asa,feet
+AG,then to side kick left foot,asa,feet
+Asa,twitch foot,Asa,feet
+V,crossed feet,asa,feet
+TO,feet crossed,asa,feet
+TO,feet crossed,T-O,feet
+Asa,left ankle on right knee,venuri,feet
+Asa,up and down left foot,venuri,feet
+Asa,right foot shake,venuri,feet
+V,both heels on chair ,venuri,feet
+TO,cross feet,Venuri,feet
+AG,shifting heels of the floor,venuri ,feet
+AG,right foot on left ankle,venuri ,feet
+AG,foot pushing ankle,venuri ,feet
+AG,Thumb moves,Agat,fingers
+AG,Points,Agat,fingers
+V,Hand points behind,Agat,fingers
+AG,left fingers extend fist bop,asa,fingers
+Ai,point to ear,asa,fingers
+Ai,knit fingers,asa,fingers
+AG,interwined fingers,venuri,fingers
+AG,right thumb light rubbing,venuri,fingers
+Asa,entangled fingers,venuri,fingers
+V,left to right finger poiting,venuri,fingers
+AG,Hands touch,Agat,hands
+AG,Hands separate,Agat,hands
+AG,Hands clasp,Agat,hands
+AG,Entangle twist,Agat,hands
+AG,Palms up,Agat,hands
+V,Hands between legs,Agat,hands
+V,Hands in non simultaneous circles,Agat,hands
+V,Hand in hair,Agat,hands
+V,Hand on chin,Agat,hands
+V,Hands entangled,Agat,hands
+V,Hand on knee,Agat,hands
+Ai,Hands on leg,Agat,hands
+Ai,Hand on hair,Agat,hands
+Ai,Palm on palm,Agat,hands
+Ai,Hands entangled,Agat,hands
+Ai,Hands making circle,Agat,hands
+Ai,Thumb on thumb,Agat,hands
+Ai,Hands like scissor,Agat,hands
+Ai,Open dangling hand,Agat,hands
+TO,Rapping hand gesture,Agat,hands
+TO,Hands on thighs,Agat,hands
+TO,Finger in ear,Agat,hands
+TO,Hand in hand,Agat,hands
+TO,hand running,Agat,hands
+TO,Picking paper,Agat,hands
+TO,Air quotes,Agat,hands
+TO,Hand on arm,Agat,hands
+TO,Hand on elbow,Agat,hands
+TO,Circular hand gesture,Agat,hands
+TO,Staircase hand gesture,Agat,hands
+TO,‘It is what it is’ hand gesture,Agat,hands
+AG,Hands between legs,Ainhoa,hands
+AG,Right hand on top of the chair,Ainhoa,hands
+AG,Left hand emphasize ,Ainhoa,hands
+Asa,Hands on the same line of the chest,Ainhoa,hands
+Asa,Right hand touching hoodie,Ainhoa,hands
+Asa,Hands on the belly,Ainhoa,hands
+V,Hands together close to the belly,Ainhoa,hands
+V,Left hand touch the ear,Ainhoa,hands
+V,Crossed hands,Ainhoa,hands
+V,Touch pussy,Ainhoa,hands
+V,Left hand point the space,Ainhoa,hands
+V,Making movements with both hands,Ainhoa,hands
+Ai,Fingers entangled,Ainhoa,hands
+Ai,A hand touch the eyebrows,Ainhoa,hands
+TO,Left hand touch right ear,Ainhoa,hands
+TO,Hands between legs,Ainhoa,hands
+TO,Hand touch the other hand,Ainhoa,hands
+TO,Holds a paper,Ainhoa,hands
+TO,Shows a paper,Ainhoa,hands
+TO,Hand caress other hand,Ainhoa,hands
+TO,Hand massage,Ainhoa,hands
+TO,right hand ephasize 3 times,Ainhoa,hands
+TO,Open hands,Ainhoa,hands
+AG,hands together ,asa,hands
+AG,open hands,asa,hands
+AG,left hand in crotch,asa,hands
+AG,hands up together,asa,hands
+AG,rotate hands,asa,hands
+AG,walking gesture,asa,hands
+AG,clasp over,asa,hands
+AG,clasp under,asa,hands
+AG,hands open small things,asa,hands
+Asa,boot stroke,Asa,hands
+Asa,hand clasp,Asa,hands
+Asa,open hands,Asa,hands
+Asa,right hand up,Asa,hands
+Asa,left hand to chest,Asa,hands
+Asa,right to right,Asa,hands
+Asa,right shift,Asa,hands
+Asa,AIR QUOTES,Asa,hands
+Asa,hands at centre,Asa,hands
+V,right hand face,asa,hands
+V,hands thighs ,asa,hands
+V,hands up,asa,hands
+V,point down ,asa,hands
+V,flat / across,asa,hands
+V,fingers together,asa,hands
+Ai,hands quick up down,asa,hands
+Ai,left hand cross over knee,asa,hands
+Ai,left hand chin,asa,hands
+Ai,left hand across down fingers,asa,hands
+Ai,hands on thighs,asa,hands
+Ai,grab hair opposite cross,asa,hands
+Ai,right hand up to eye,asa,hands
+Ai,hands up and down,asa,hands
+Ai,hand across up precise,asa,hands
+TO,left hand scratch right ear,asa,hands
+TO,hands clasped,asa,hands
+TO,left hand right wrist,asa,hands
+TO,get up and grab paper,asa,hands
+TO,air quotes,asa,hands
+TO,left hand on right elbow,asa,hands
+TO,touch palms,asa,hands
+TO,flick hands,asa,hands
+TO,scratch torso with left hand,asa,hands
+TO,right hand successive distances,asa,hands
+TO,right hand up a bit,asa,hands
+TO,rub hands,asa,hands
+TO,left hand right wrist,asa,hands
+TO,open hands,asa,hands
+TO,head touching ear,T-O,hands
+TO,hands on legs,T-O,hands
+TO,grab object,T-O,hands
+TO,do quote sign,T-O,hands
+TO,touch elbow,T-O,hands
+TO,touch hands,T-O,hands
+TO,scratch hands,T-O,hands
+TO,touch nipple,T-O,hands
+TO,long hand motion,T-O,hands
+TO,counting hand motion,T-O,hands
+TO,open hands,T-O,hands
+AG,emphasising with right hand - left to right,Venuri,hands
+Asa,puling jersey sleeve,venuri,hands
+Asa,emphasising with right hand,venuri,hands
+Asa,pulling jerset strings,venuri,hands
+Asa,right hand circular emphasising,venuri,hands
+V,scratch right hand,venuri,hands
+V,hands together left moves hands out,venuri,hands
+V,scratch ear,venuri,hands
+V,right hand swing,venuri,hands
+V,hand open,venuri,hands
+V,hands clasepd,venuri,hands
+V,slight head nod,venuri,hands
+V,chin on right palm closed,venuri,hands
+V,left hand onright knee,venuri,hands
+Ai,clasp hands,venuri,hands
+Ai,hands crossed fallen on side,venuri,hands
+Ai,hand slides on thigh,Venuri,hands
+Ai,pull hair with right hand,Venuri,hands
+Ai,rubbing right eyebrow,Venuri,hands
+Ai,left hand up,Venuri,hands
+Ai,scratching head right hand,Venuri,hands
+Ai,hands open,Venuri,hands
+Ai,hand sliding in front /slow slice,Venuri,hands
+Ai,right hand throw back,Venuri,hands
+Ai,circular gesture like rainbow ends emphasis open palms fingers separate,Venuri,hands
+Ai,rub nose with right forefinger,Venuri,hands
+TO,hands clasped,Venuri,hands
+TO,air quotes,Venuri,hands
+TO,left hand slid up right hand,Venuri,hands
+TO,elbow rub,Venuri,hands
+TO,hands rub,Venuri,hands
+TO,oepen hands,Venuri,hands
+TO,small semi circle with hands,Venuri,hands
+TO,three three three,Venuri,hands
+TO,hands clasped ,Venuri,hands
+TO,open hand and drop on thigh,Venuri,hands
+AG,left hand fingers opening,venuri ,hands
+AG,Nod,Agat,head
+Asa,head 30 Degrees,Agat,head
+Asa,Side profile,Agat,head
+Asa,head 90 Degrees,Agat,head
+Asa,-30 Degrees,Agat,head
+TO,Slight shake of head,Agat,head
+TO,Head tilt,Agat,head
+Ai,Head lean on the right side,Ainhoa,head
+Ai,Look down,Ainhoa,head
+AG,neck to side,asa,head
+AG,a bit head to right,asa,head
+AG,triple nod,asa,head
+V,head bob,asa,head
+V,left to face look left,asa,head
+V,eyes left,asa,head
+V,nod ,asa,head
+Ai,head back,Asa,head
+Ai,right head dip,asa,head
+TO,nodding,asa,head
+TO,tilt head,asa,head
+TO,twitch head,asa,head
+TO,look up and left,asa,head
+TO,tild head,asa,head
+TO,head tilt,T-O,head
+Asa,small nods,venuri,head
+V,head tilt left,venuri,head
+Ai,head nod,Venuri,head
+TO,nods,Venuri,head
+Asa,Left leg crossed right leg,Ainhoa,leg
+TO,Legs cross,Agat,legs
+TO,Cross legged,Agat,legs
+TO,Reverse cross legged,Agat,legs
+AG,Open legs,Ainhoa,legs
+AG,Left leg crossed behind right leg,Ainhoa,legs
+V,Left leg behind,Ainhoa,legs
+V,Open legs,Ainhoa,legs
+Ai,Legs crossed,Ainhoa,legs
+TO,Open legs,Ainhoa,legs
+TO,Right leg crossed,Ainhoa,legs
+TO,Open legs again,Ainhoa,legs
+TO,Crossed legs again,Ainhoa,legs
+Asa,legs cross look over shoulder,Asa,legs
+V,extend legs,asa,legs
+TO,cross legs,asa,legs
+TO,recross legs,asa,legs
+TO,legs crossed,T-O,legs
+TO,change cross legs,T-O,legs
+Asa,right leg moving up and down,venuri,legs
+Asa,crossed legs,venuri,legs
+TO,cross legs ,Venuri,legs
+TO,swap cross legs,Venuri,legs
+TO,Smile,Ainhoa,mouth
+AG,hunch,asa,upper body
+Asa,shift up,Asa,weight
+Asa,shift right,Asa,weight
+Asa,Employs neck,Agat,WTFDYM
+AG,elbow kick feet under,asa,WTFDYM
+AG,left full gesture,asa,WTFDYM
+Asa,hands ears rotate up,Asa,WTFDYM
+Asa,crawl ones left leg twitch,Asa,WTFDYM
+V,clasp nod nod,asa,WTFDYM
+Ai,sigh left foot twitch,asa,WTFDYM
+AG, makes a frame with both hands,Ainhoa,WTFDYM
+AG,reposition  on the chair,Ainhoa,WTFDYM
